@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **CPIMS mobile app and KenyaEMR**
 
-- 🌱 I’m currently learning **Android Fhir SDK**
+- 🌱 I’m currently learning **Android Fhir SDK, Spring Boot, OpenMRS and OpenHIM**
 
-- 👯 I’m looking to collaborate on **Flutter,ML,Data Analysis,python,flask,Laravel and Kotlin**
+- 👯 I’m looking to collaborate on **Flutter,ML,Data Analysis,python,flask,Spring Boot, OpenMRS, OpenHIM and Kotlin**
 
 - 🤝 I’m looking for help with **Android Fhir SDK**
 
