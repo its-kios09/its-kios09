@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/Fredrickkilon18" target="blank"><img src="https://img.shields.io/twitter/follow/Fredrickkilon18?logo=twitter&style=for-the-badge" alt=""  </p>
 
-- 🔭 I’m currently working on **CPIMS mobile app and KenyaEMR**
+- 🔭 I’m currently working on **CPIMS virtualbot and KenyaEMR 3.x**
 
 - 🌱 I’m currently learning **Android Fhir SDK, Spring Boot, OpenMRS and OpenHIM**
 
