@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/Fredrickkilon18" target="blank"><img src="https://img.shields.io/twitter/follow/Fredrickkilon18?logo=twitter&style=for-the-badge" alt=""  </p>
 
-- 🔭 I’m currently working on **KenyaEMR 3.x**
+- 🔭 I’m currently developing  **KenyaEMR 3.x** at **PalladiumGroupKe KeHMIS Project**  
 
-- 🌱 I’m currently learning **OpenMRS 3.x**
+- 🌱 I’m currently intergrating **KenyaEMR 3.x** with **HIE** **(Health** **information exchange)**
 
 - 👯 I’m looking to collaborate on **Flutter,ML,Data Analysis,python,flask,Spring Boot, OpenMRS 3.x, OpenHIM and Web**
 
